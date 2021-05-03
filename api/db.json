@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "Live Streaming",
+      "userId": "104305550613672853482",
+      "id": 8
+    },
+    {
+      "title": "React Stream",
+      "description": "About React",
+      "userId": "104305550613672853482",
+      "id": 9
+    },
+    {
+      "title": "Celebal",
+      "description": "Live",
+      "userId": "104305550613672853482",
+      "id": 10
+    }
+  ]
+}
